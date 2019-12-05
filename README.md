@@ -1,11 +1,11 @@
 # API Controle de Almoxarifado
 
-API do projeto de controle de almoxarifado.
+API do projeto de controle de almoxarifado, desenvolvida em conjunto com: https://github.com/bwpedro/flutter-almoxarifado
 
 ## Pre requisitos
 
-Primeiramente, é necessário ter o [Leiningen][] 2.0.0, ou versão superior, instalado.
-[leiningen]: https://github.com/technomancy/leiningen
+Primeiramente, é necessário ter o Leiningen 2.0.0, ou versão superior, instalado.
+https://github.com/technomancy/leiningen
 
 
 ## Para executar
